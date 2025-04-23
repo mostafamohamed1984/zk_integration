@@ -1,12 +1,12 @@
-Metadata-Version: 2.1
-Name: zk-integration
+Metadata-Version: 2.2
+Name: zk_integration
 Version: 0.0.1
 Summary: Zk Device Integration
-Home-page: UNKNOWN
 Author: Peter
 Author-email: eng.peter.maged@gmail.com
-License: UNKNOWN
-Platform: UNKNOWN
-
-UNKNOWN
-
+Requires-Dist: frappe
+Requires-Dist: pyzk
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
